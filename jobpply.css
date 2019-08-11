@@ -1,0 +1,81 @@
+ .container{
+ 	margin-top:60px;
+ 	margin-left: 120px;
+ 	margin-right: 120px; 
+ 	margin-bottom: 60px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 20px;
+  float: right;
+  overflow: hidden;
+  background-color: transparent;
+  color: #fff;
+ }
+
+li {
+  float: left;
+}
+
+ li a {
+  background: transparent;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.button1{
+            background-color: dodgerblue;
+            border-radius: 10px;
+            color: white;
+            padding: 12px 28px;
+            margin: 5px 5px;
+            
+			}
+.button2{
+            background-color: tomato;
+            border-radius: 10px;
+            color: white;
+            padding: 12px 28px;
+            margin: 4px 2px;
+        }
+.button3{
+            background-color: dodgerblue;
+            color: white;
+            padding: 12px 28px;
+            margin: 5px 5px;
+            border-radius: 5px;
+            
+			}
+
+.active {
+  color:blue;
+}
+.block{
+
+  
+}
+
+
+.cblock{
+
+  float: left;
+  width: 50%;
+}
+
+input[type=text]{
+            width: 100%;
+            padding: 15px;
+            margin: 10px 0 5px 0;
+            display: inline-block;
+            border: none;
+            border-radius: 5px;
+            background: white;
+          }

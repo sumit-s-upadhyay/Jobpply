@@ -1,0 +1,196 @@
+ .container{
+  margin-top:60px;
+  margin-left: 120px;
+  margin-right: 120px; 
+  margin-bottom: 60px;
+
+
+
+ }
+a {
+  text-decoration: none;
+  color: black;
+}
+ ul {
+  list-style-type: none;
+  margin-right: -7px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left:10px; 
+  padding: 20px;
+  float: right;
+  overflow: hidden;
+  background-color: transparent;
+  color: #fff;
+ }
+
+li {
+  float: left;
+}
+
+ li a {
+  background: transparent;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.button1{
+            background-color: dodgerblue;
+            border-radius: 10px;
+            color: white;
+            padding: 12px 28px;
+            margin: 5px 5px;
+            
+      }
+.button2{
+            background-color: tomato;
+            border-radius: 10px;
+            color: white;
+            padding: 12px 28px;
+            margin: 4px 2px;
+        }
+.button3{
+            background-color: dodgerblue;
+            color: white;
+            padding: 12px 28px;
+            margin: 5px 5px;
+            border-radius: 5px;
+            
+      }
+
+.active {
+  color:blue;
+}
+.block{
+  
+  
+}
+
+
+.cblock{
+  background-color: #e1e6e5;
+  height:900px;
+  float: left;
+}
+.dblock{
+  background-color: #e1e6e5;
+  height:900px;
+  }
+input[type=text]{
+            width: 90%;
+            padding: 15px;
+            margin: 10px 0 5px 0;
+            display: inline-block;
+            
+            border-radius: 5px;
+            background: white;
+          }
+textarea{
+            width: 90%;
+            padding: 15px;
+            margin: 10px 0 5px 0;
+            display: inline-block;
+
+            border-radius: 5px;
+            background: white;
+}
+.main-container{
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+
+.form{
+  background-color: white;
+  margin-left:200px;
+  margin-right: 10px;
+  padding: 30px;
+  border-radius: 10px;
+}
+.detail{
+  background-color: white;
+  margin-left:10px;
+  margin-right: 150px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+footer{
+  padding: 10px;
+  text-align: center;
+  background-color: dodgerblue;
+  color: white;
+}
+footer input[type=text]{
+           padding: 15px;
+            margin: 10px 0 5px 0;
+            background: white;
+            
+}
+footer .button{
+            background-color: tomato;
+            color: white;
+            padding: 15px ;
+            border-radius: 5px;
+            
+}
+.pbtn{
+     background-color: dodgerblue;
+     color: white;
+     padding: 7px 10px 7px 10px;
+     border-radius: 18px;
+}
+.fbtn{
+     background-color: #fcbe03;
+     color: white;
+     padding: 7px 10px 7px 10px;
+     border-radius: 18px;
+}
+.frbtn{
+     background-color: blue;
+     color: white;
+     padding: 7px 10px 7px 10px;
+     border-radius: 18px;
+}
+.ibtn{
+     background-color: grey;
+     color: white;
+     padding: 7px 10px 7px 10px;
+     border-radius: 18px;
+}
+.tbtn{
+     background-color: red;
+     color: white;
+     padding: 7px 10px 7px 10px;
+     border-radius: 18px;
+}
+.btn{
+     background-color: transparent;
+          border: groove;
+     padding: 7px 10px 7px 10px;
+     border-radius: 15px;
+}
+.act{
+     background-color: tomato;
+     
+     border: groove;
+     padding: 7px 10px 7px 10px;
+     border-radius: 15px;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.round {
+  border-radius: 15px;
+}
